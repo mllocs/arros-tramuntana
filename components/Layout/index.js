@@ -25,7 +25,7 @@ export default function Home({ children }) {
         <ul className={styles.menu}>
           <li><a href="/">Varietats</a></li>
           <li><a href="/comprar">Comprar</a></li>
-          <li><a href="#" target="_blank">Blog</a></li>
+          <li><a href="https://arros-tramuntana.tumblr.com/" target="_blank">Blog</a></li>
           <li><a href="https://www.facebook.com/arrostramuntana" target="_blank">Facebook</a></li>
           <li><a href="/contacte">Contacte</a></li>
         </ul>
