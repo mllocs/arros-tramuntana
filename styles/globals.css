@@ -1,16 +1,37 @@
+
 html,
 body {
   padding: 0;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+
+  --taronja: #c27a25;
 }
 
 a {
-  color: inherit;
-  text-decoration: none;
+  color: var(--taronja);
+  text-decoration: underline;
 }
 
 * {
   box-sizing: border-box;
+}
+
+h1, h2 {
+  color: #555;
+}
+
+h2 {
+  text-align: center;
+  font-size: 2.5rem;
+}
+
+.textBlock {
+  max-width: 800px;
+  text-align: center;
+}
+
+.cigonya {
+  margin: 40px;
 }
