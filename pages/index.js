@@ -8,7 +8,7 @@ export default function Home() {
 
       <h2>Voleu comprar el nostre arròs?</h2>
 
-      <p className="textBlock">Segueix el seguen enllaç per a informar-te de com trobar el nostre arròs.</p>
+      <p className="textBlock">Segueix el següent enllaç per a informar-te de com trobar el nostre arròs.</p>
 
       <a href="/comprar">Vull provar l'Arròs Tramuntana!</a>
 
