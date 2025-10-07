@@ -34,7 +34,7 @@ export default function Home({ children }) {
       {children}
 
       <footer className={styles.footer}>
-        © Arròs Tramuntana 2021
+        © Arròs Tramuntana 2025
       </footer>
     </div>
   );
